@@ -41,7 +41,7 @@ It supports common formats including JPG, PNG, GIF, WEBP, MP4, MKV, MOV, and HEI
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/instagram-media-fixer.git
+git clone https://github.com/adityaksx/Instagram-Media-Fixer.git
 cd instagram-media-fixer
 ```
 
